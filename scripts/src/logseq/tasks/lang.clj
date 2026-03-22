@@ -204,7 +204,8 @@
             :settings-page/tab-editor :linked-references/filter-heading}
    :tr #{:help/awesome-logseq}
    :id #{:host :port}
-   :cs #{:host :port :help/blog :settings-page/tab-editor}})
+   :cs #{:host :port :help/blog :settings-page/tab-editor}
+   :el #{:help/awesome-logseq :settings-page/ai :settings-page/tab-ai}})
 
 (defn- validate-languages-dont-have-duplicates
   "Looks up duplicates for all languages"
