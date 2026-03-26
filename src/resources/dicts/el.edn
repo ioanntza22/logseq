@@ -63,6 +63,7 @@
  :content/replace-with-embed "Αντικατάσταση με ενσωμάτωση"
  :content/replace-with-text "Αντικατάσταση με κείμενο"
  :context-menu/make-a-flashcard "Δημιουργία κάρτας μνήμης"
+ :context-menu/set-icon "Ορισμός εικονιδίου"
  :context-menu/toggle-number-list "Εναλλαγή αριθμημένης λίστας"
  :delete "Διαγραφή"
  :dev/show-block-ast "(Dev) Εμφάνιση AST μπλοκ"
